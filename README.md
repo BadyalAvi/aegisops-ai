@@ -1,8 +1,3 @@
-I'll transform your README into a visually stunning, terminal-aesthetic masterpiece that looks like it came from a cyberpunk HUD interface. Here's your new README — copy this directly into your `README.md`:
-
----
-
-```markdown
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                    A E G I S O P S   A I                        -->
 <!--         A U T O N O M O U S   S R E   C O M M A N D E R         -->
